@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi, Italo Oliveira here
 
-<!--
-**Italoliveira/Italoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Brazilian Software Engineer passionate about technology, who dreams of working on something that can impact a significant number of people
 
-Here are some ideas to get you started:
+- 👨🏾‍🎓  Computer Science - UFcat
+- 💙  Passionate about Software Architecture and Design Patterns
+- 🎮  My hobbies are Games, Handball, Mountain Biking and Movies
+- 👨🏾‍💻  Currently Focused on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display:inline">
+  
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg"/>
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg"/>
+  
+<div/>
+
+<a href="https://www.linkedin.com/in/italo-oliveira-0a8aa7197/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> <a/>
